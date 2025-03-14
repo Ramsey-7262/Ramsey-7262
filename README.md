@@ -1,5 +1,4 @@
-# Hi there, I'm [Ra
-adhani semboni] 👋  
+# Hi there, I'm [Ramadhani semboni] 👋  
 
 🎓 **Education**: Bachelor's Degree in Actuarial Statistics from the University of Dodoma.  
 🎨 **Profession**: Graphic Designer with a passion for visual storytelling.  
@@ -37,4 +36,4 @@ adhani semboni] 👋
 
 ## 📈 GitHub Stats  
 
-![Ramsey-7262](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Ramsey-7262](https://github-readme-stats.vercel.app/api?username=Ramsey-7262&show_icons=true&theme=radical)  
