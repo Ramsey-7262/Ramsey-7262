@@ -29,7 +29,7 @@
 ## 🌍 Connect with Me  
 
 - **LinkedIn**: [Ramadhani semboni](#)  
-- **Behance**: [Instagram @Ramsey](#)  
+- **Instagram**: [@Ramsey](#)  
 - **Email**:  [semboniramadhani226@gmail.com](semboniramadhani226@gmail.com)  
 
 ---
@@ -37,3 +37,9 @@
 ## 📈 GitHub Stats  
 
 ![Ramsey-7262](https://github-readme-stats.vercel.app/api?username=Ramsey-7262&show_icons=true&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-Ramsey-7262&theme=dracula)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramsey-7262&show_icons=true&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramsey-7262&theme=dark)
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
