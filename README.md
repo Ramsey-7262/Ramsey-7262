@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm [Ra
+adhani semboni] 👋  
 
-<!--
-**Ramsey-7262/Ramsey-7262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**: Bachelor's Degree in Actuarial Statistics from the University of Dodoma.  
+🎨 **Profession**: Graphic Designer with a passion for visual storytelling.  
+📊 **Skills**: Proficient in STATA for statistical analysis and data modeling.  
+💡 **Interests**: Data Science, Financial Risk Analysis, Data Visualization, and UI/UX Design.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+
+### 📊 Data & Statistical Analysis  
+- **Tools**: STATA, SPSS, Excel, R  
+- **Areas**: Data Modeling, Risk Assessment, Predictive Analytics  
+
+### 🎨 Graphic Design  
+- **Tools**: Adobe Photoshop, Illustrator, InDesign  
+- **Work**: Branding, UI/UX, Marketing Materials  
+
+---
+
+## 🏆 Projects  
+
+- 📊 **Actuarial Data Analysis:** Conducted a comprehensive statistical analysis on [SOA RESEARCH], utilizing STATA to assess financial risks.  
+- 🎨 **Graphic Design Portfolio:** Designed branding materials and visual content for various clients. [View Portfolio](#)  
+
+---
+
+## 🌍 Connect with Me  
+
+- **LinkedIn**: [Ramadhani semboni](#)  
+- **Behance**: [Instagram @Ramsey](#)  
+- **Email**:  [semboniramadhani226@gmail.com](semboniramadhani226@gmail.com)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Ramsey-7262](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
